@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array; A list of items. Items on a shopping list could be considered an array.
+	* Object; A name for a collection of properties. For example, your shopping list is an object with properties such as paper, ink, items to buy, and money saved.
+	* Method; When an object has a property value that is determined by an action/function, it's called a method. For example, if "money saved" was a property for your shopping list, you'd use the method of 'price.original' - 'price.discounted' to find the "money saved" value.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
